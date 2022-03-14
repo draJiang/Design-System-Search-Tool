@@ -78,3 +78,5 @@ Notion 方面同样利用 [API](https://developers.notion.com/reference/intro) �
 此工具蕴含着这样一个方法论：不止考虑自身的工作还要考虑上下游的对接，**需要全局思考。**
 
 通过聚合视觉、动画、交互等多维度的规范信息，**帮助用户建立全局思考的意识**。
+
+![https://jiangzilong-image.oss-cn-beijing.aliyuncs.com/uPic/Company/20220314194248.png](https://jiangzilong-image.oss-cn-beijing.aliyuncs.com/uPic/Company/20220314194248.png)
