@@ -3,7 +3,7 @@
 
 这是一款支持 Figma 全文搜索的工具，同时也支持聚合搜索 Notion 中的信息。
 
-![https://jiangzilong-image.oss-cn-beijing.aliyuncs.com/uPic/Company/20220314195632.png](https://jiangzilong-image.oss-cn-beijing.aliyuncs.com/uPic/Company/20220314195632.png)
+![](https://jiangzilong-image.oss-cn-beijing.aliyuncs.com/uPic/CleanShot2022-12-0818.26.1020221208182643.png)
 
 # 价值
 
